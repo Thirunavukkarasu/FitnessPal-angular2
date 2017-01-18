@@ -1,0 +1,9 @@
+<div class="container" id="content">
+  <h1 class="text-center">Upcoming Events</h1><hr class="style-star"/>
+   <div class="col-md-8">
+		<div class="well" *ngFor="let event of events">
+		    <img ng-src="assets/vendor/images/dream-runners.jpg" id="runners-logo"/>
+            <h3><i class="fa fa-calendar"></i>{{event.eventName}}</h3>
+	   </div>
+   </div>
+</div>

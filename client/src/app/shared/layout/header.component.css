@@ -1,0 +1,11 @@
+.nav-button-group{
+    margin-top: 7px;
+}
+.nav-button-group button{
+    margin-left: 5px;
+}
+
+button.btn-primary{
+    background-color:brown;
+    border-color: brown;
+}

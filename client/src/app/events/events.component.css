@@ -1,0 +1,25 @@
+hr.style-star {
+    padding: 0;
+    border: none;
+    border-top: medium double #e56717;
+    color: #e56717;
+    text-align: center;
+    width: 300px;
+}
+hr.style-star:after {
+    content: "\f005";
+    display: inline-block;
+    position: relative; 
+    top: -0.7em;  
+    font-family: FontAwesome;
+    font-size: 2em;
+    padding: 0 0.25em;
+    background: #F0F0F0;
+}
+
+#runners-logo{
+   position:absolute;
+   right:30px;
+   width:80px;
+   border:0;
+}
