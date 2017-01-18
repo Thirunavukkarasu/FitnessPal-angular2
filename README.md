@@ -2,7 +2,7 @@
 
 An app for fitness freaks
 
-![Rocky](https://github.com/Thirunavukkarasu/FitnessPal/blob/master/client/vendor/images/rocky_fitness.jpg)
+![Rocky](https://raw.githubusercontent.com/Thirunavukkarasu/FitnessPal-angular2/master/client/src/assets/vendor/images/fitnesspal.png)
 
 ## Getting Started
 
@@ -24,17 +24,17 @@ Git Client
 
 Checkout the code from github using git client.
 
-``git clone https://github.com/Thirunavukkarasu/Trackion.git``
+``git clone https://github.com/Thirunavukkarasu/FitnessPal-angular2.git``
 
 **Checkout the remote repository**
 
-``git pull FitnessPal master``
+``git pull FitnessPal-angular2 master``
 
 **Checkin the code from local repository**
 
 ``git commit -am 'Updated ReadMe'``
 
-``git push FitnessPal master``
+``git push FitnessPal-angular2 master``
 
 ## Import JSON MongoDB
 
